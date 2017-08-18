@@ -1,2 +1,0 @@
-# ihealthapplication.github.io
-ihealthapplication
